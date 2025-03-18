@@ -1,12 +1,17 @@
+
 #include <stdio.h>
 
-int numero, cont;
-printf("ingrese numero: \n");
-scanf("%d", &numero);
-cont = 1;
-while (cont <= 10)
-{
-    printf("%d x %d = %d \n"numero, cont, numero*cont);
-    cont++;
+int main() {
+    int numero, cont;
+
+    printf("Ingrese numero:\n");
+    scanf("%d", &numero);
+
+    cont = 1;
+    while (cont <= 10) {
+        printf("%d x %d = %d \n", numero, cont, numero * cont);
+        cont++;
+    }
+
+    return 0;
 }
-return 0;
