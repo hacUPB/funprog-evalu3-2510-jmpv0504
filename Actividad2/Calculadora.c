@@ -23,6 +23,7 @@ int main()
     return 0;
 }
 
+// misma calculadora pero con el condicional switch
 
 int main() {
     double a, b;
