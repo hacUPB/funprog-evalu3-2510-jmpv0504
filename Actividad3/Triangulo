@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main() {
+    int n;
+
+    // Pedir al usuario que ingrese un número
+    printf("Ingrese un número: ");
+    scanf("%d", &n);
+
+    for (int fila = 1; fila <= n; fila++) {
+     
+        for (int numero = 1; numero <= fila; numero++) {
+            printf("%d ", numero); 
+        }
+        printf("\n"); 
+    }
+
+    return 0;
