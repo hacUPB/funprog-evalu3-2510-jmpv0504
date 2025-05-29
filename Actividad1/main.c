@@ -5,5 +5,6 @@ int main() {
     printf(MENSAJE);
     return 0;
 }
-![imagen.c](./../imagenes/main.c.png)
+![imagen.c](../../imagenes/main_c.png)
+
 
