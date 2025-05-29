@@ -1,3 +1,5 @@
+![imagen.i](./../imagenes/main.i.png)
+
 # 1 "main.c"
 # 1 "<built-in>"
 # 1 "<command-line>"
