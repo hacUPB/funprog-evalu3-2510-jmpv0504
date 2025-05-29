@@ -6,11 +6,10 @@ Id: 000487065
 ---
 ## Índice de Actividades – Unidad 3: Programación Estructurada
 
-| Actividad | Descripción                                                                         | 
-|-----------|-------------------------------------------------------------------------------------|
-| [Actividad 1](#actividad-1) | Proceso de compilación en C: preprocesado, compilación, ensamblado  
- y enlazado.                                                                                      |
-| [Actividad 2](#actividad-2) | Análisis de operaciones lógicas y condiciones compuestas en  lenguaje C.                                                                                       |
-| [Actividad 3](#actividad-3) | Uso de estructuras repetitivas (`while`, `do-while`, `for`) y 
- ejercicios prácticos.                                                                            |
-| [Actividad 4](#actividad-4) | Desarrollo y uso de funciones: prototipos, argumentos, retorno y reutilización.                                                                                    |
+| Actividad                   | Descripción                                                   |
+|-----------------------------|---------------------------------------------------------------|
+| [Actividad 1](#actividad-1) | Proceso de compilación en C.                                  |
+| [Actividad 2](#actividad-2) | Análisis de operaciones lógicas y condiciones .               |
+| [Actividad 3](#actividad-3) | Uso de estructuras repetitivas (`while`, `do-while`, `for`) . |
+| [Actividad 4](#actividad-4) | Desarrollo y uso de funciones.                                |
+                                                                                              |
