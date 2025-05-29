@@ -1,4 +1,4 @@
-![imagen.s](./../imagenes/main.s.png)
+
 
 	.file	"main.c"
 	.text
