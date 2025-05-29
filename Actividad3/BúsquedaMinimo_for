@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int main() {
+    int num, minimo;
+
+    printf("Ingresa un número: ");
+    scanf("%d", &minimo); // Primero lo guardamos como mínimo inicial
+
+    for (int i = 1; i < 5; i++) {
+        printf("Ingresa otro número: ");
+        scanf("%d", &num);
+
+        if (num < minimo) {
+            minimo = num;
+        }
+    }
+
+    printf("El número mínimo es: %d\n", minimo);
+
+    return 0;
+}

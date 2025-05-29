@@ -1,0 +1,31 @@
+#include <stdio.h>
+
+int main() 
+{
+    int opcion;
+
+    do {
+        printf(" Menú");
+        printf("1. Sumar\n");
+        printf("2. Restar\n");
+        printf("3. Salir\n");
+        printf("Elija una opción: ");
+        scanf("%d", &opcion);
+
+        if (opcion == 1) 
+        {
+            printf("Elegiste Sumar.\n");
+        } else if (opcion == 2) 
+        {
+            printf("Elegiste Restar.\n");
+        } else if (opcion == 3) 
+        {
+            printf("Saliendo...\n");
+        } else {
+            printf("Opción inválida.\n");
+        }
+
+    } while (opcion != 3);
+
+    return 0;
+}
